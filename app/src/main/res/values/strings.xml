@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Satellites Near Me</string>
+    <string name="preference_file_key">com.andrey.satellitesnearme.PREFERENCE_FILE_KEY</string>
+</resources>
